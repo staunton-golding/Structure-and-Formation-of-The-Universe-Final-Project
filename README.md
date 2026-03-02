@@ -9,3 +9,5 @@ This project had some fun quirks - notably, the dataset was a "pac-man" style da
 the last point along the x-axis would be adjacent the first point on the x-axis). 
 
 I am publishing this simply as a work example. Unfortunately, as this (school) project is from years ago, I could not source the .dat data file used. Apologies.
+
+I included both the original livescript (.mlx), and a normal script (.m). MATLAB (online or application) is needed to view the .mlx file.
